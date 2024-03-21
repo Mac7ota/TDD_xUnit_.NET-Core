@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WN10\\source\\repos\\SistemaTarefasInteligentes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED8D642-7CC7-44C1-97C8-22122C626179}|SistemaTarefasInteligentes.Test\\SistemaTarefasInteligentes.Test.csproj|c:\\users\\wn10\\source\\repos\\sistematarefasinteligentes\\sistematarefasinteligentes.test\\tarefastests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED8D642-7CC7-44C1-97C8-22122C626179}|SistemaTarefasInteligentes.Test\\SistemaTarefasInteligentes.Test.csproj|solutionrelative:sistematarefasinteligentes.test\\tarefastests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E5B656-BC09-4A5F-9CDB-E744AA5C73CE}|Domain\\Domain.csproj|c:\\users\\wn10\\source\\repos\\sistematarefasinteligentes\\domain\\entitys\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E5B656-BC09-4A5F-9CDB-E744AA5C73CE}|Domain\\Domain.csproj|solutionrelative:domain\\entitys\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\WN10\\source\\repos\\SistemaTarefasInteligentes\\Domain\\Entitys\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Domain\\Entitys\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\WN10\\source\\repos\\SistemaTarefasInteligentes\\Domain\\Entitys\\Tarefa.cs",
+              "RelativeToolTip": "Domain\\Entitys\\Tarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:28:30.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefasTests.cs",
+              "DocumentMoniker": "C:\\Users\\WN10\\source\\repos\\SistemaTarefasInteligentes\\SistemaTarefasInteligentes.Test\\TarefasTests.cs",
+              "RelativeDocumentMoniker": "SistemaTarefasInteligentes.Test\\TarefasTests.cs",
+              "ToolTip": "C:\\Users\\WN10\\source\\repos\\SistemaTarefasInteligentes\\SistemaTarefasInteligentes.Test\\TarefasTests.cs",
+              "RelativeToolTip": "SistemaTarefasInteligentes.Test\\TarefasTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:24:32.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
